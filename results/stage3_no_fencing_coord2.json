@@ -1,0 +1,58 @@
+{
+  "leader": "coord2",
+  "fencing": 0,
+  "matched_python_vacancies": 4894,
+  "top_1_skill": [
+    "Python",
+    3560
+  ],
+  "top_1_pair": [
+    "PostgreSQL + Python",
+    1407
+  ],
+  "top_5_skills": [
+    [
+      "Python",
+      3560
+    ],
+    [
+      "PostgreSQL",
+      1451
+    ],
+    [
+      "Git",
+      1085
+    ],
+    [
+      "SQL",
+      1050
+    ],
+    [
+      "Linux",
+      938
+    ]
+  ],
+  "top_5_pairs": [
+    [
+      "PostgreSQL + Python",
+      1407
+    ],
+    [
+      "Git + Python",
+      1044
+    ],
+    [
+      "Python + SQL",
+      1024
+    ],
+    [
+      "Linux + Python",
+      907
+    ],
+    [
+      "Docker + Python",
+      890
+    ]
+  ],
+  "finished_at": "2026-11-14 04:49:03"
+}

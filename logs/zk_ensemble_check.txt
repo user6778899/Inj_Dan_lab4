@@ -1,0 +1,10 @@
+=== Проверка ансамбля Apache ZooKeeper ===
+Узел zk1 (127.0.0.1:2181) -> ДОСТУПЕН
+Узел zk2 (127.0.0.1:2182) -> ДОСТУПЕН
+Узел zk3 (127.0.0.1:2183) -> ДОСТУПЕН
+Корневые znodes (/): ['rustfs_lab4', 'zookeeper']
+Конфигурация кворума (/zookeeper/config):
+server.1=localhost:2888:3888:participant
+server.2=localhost:2889:3889:participant
+server.3=localhost:2890:3890:participant
+version=0
